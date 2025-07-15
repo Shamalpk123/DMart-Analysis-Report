@@ -34,7 +34,6 @@ This project demonstrates an end-to-end data analytics pipeline for Dmart retail
 * Analyzes customer demographics, purchase frequency, and basket size.
 * Identifies high-value customers and churn risks.
 
-&nbsp;
 
 ###### Product Performance: 
 
