@@ -1,4 +1,4 @@
-# **DMart Retail Data Analysis \& Power BI Dashboard**
+# **DMart Retail Data Analysis**
 
 This project demonstrates an end-to-end data analytics pipeline for Dmart retail operations. It starts from raw CSV datasets, imported the data in a MySQL database, and visualizes actionable business insights using an interactive Power BI dashboard by importing MySQL database.
 
